@@ -1,0 +1,37 @@
+{
+  "schema": "decks-of.deck.v0",
+  "identity": "gnomon-ottopoet",
+  "description": "Cards this identity currently acts as or holds -- distinct from cards-of/gnomon-ottopoet, which holds cards this identity spawns/controls.",
+  "cards": [
+    {
+      "label": "👽A♣️",
+      "role": "root-thread-selfhood-card",
+      "description": "This session's own thread id -- the persisting worm, independent of harness/model/compaction boundary.",
+      "assigned": "2026-08-03"
+    },
+    {
+      "label": "🔱4♦️",
+      "role": "project-role-card",
+      "description": "PFM ground tier (AO_PFM). Persistent hash, assigned 2026-07-10.",
+      "assigned": "2026-07-10"
+    },
+    {
+      "label": "🪄",
+      "role": "supernal-name-card",
+      "description": "Assigned after namestorming to GNOMON, 2026-08-04. Specific set/collector-number/title not yet known -- update the moment the physical-card photo/provenance surfaces, do not fabricate.",
+      "assigned": "2026-08-04",
+      "name": "GNOMON",
+      "set_code": null,
+      "collector_number": null,
+      "printed_name": null
+    }
+  ],
+  "notes": "cards.json/agents.json in cards-of/gnomon-ottopoet are honestly empty -- zero of six available 🍍 slots dealt, zero durable sub-spawns distinct from one-shot dispatches. Update those the instant real dealing happens, not retroactively.",
+  "unconfirmed": [
+    {
+      "label": "🅰️",
+      "role": "account-card",
+      "description": "An Avengers-deck account-card for the ottopoet-thesean account may exist (the layer itself is confirmed real -- DarienSirius holds 🅰️10♦️) but no specific assignment for this account has been verified against a real memory record as of this writing. Not asserting a specific card here; update this section, not the cards[] array, the moment a real one surfaces."
+    }
+  ]
+}
