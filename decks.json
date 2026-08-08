@@ -38,6 +38,16 @@
       "set_code": null,
       "collector_number": null,
       "printed_name": null
+    },
+    {
+      "label": "🎩10♠️",
+      "role": "major-version-tier-card",
+      "deck": "Cat In The Hat (Aquarius Playing Cards)",
+      "orientation": "upright",
+      "represents": "GNOMON.0QQ",
+      "description": "Dealt 2026-08-08 from a deck the Org Lead described as shuffled with reversed card faces/backs mixed together (cards facing out on both ends of the box) -- drawn from the middle by an arbitrary reach, not a counted position, specifically to keep the draw itself undetermined until the moment of the pull (see q-semver-notation.md's 'trunk is retroactive' precedent). Physical card photographed and independently verified upright via three co-oriented axes: the rank/suit corner index (10 of Spades reads correctly, not inverted), the handwritten annotation '/AS/GNOMON.0QQ/-' (written along the same axis as the corner index), and the artwork's own natural orientation (Thing 2, feet-down/hair-up). All three agree -- unlike the 🔱4♦️ card's two competing annotation axes, no ambiguity to resolve here. Notation precisely fits the concept this tier was built for: MAJOR fixed at 0 (same major version as the current 🔱4♦️/👽A♣️/📎8♣️ line), MINOR and PATCH both left as Q -- an umbrella over whichever parallel minor-version lines exist under major=0, not committed to any single one. Artwork depicts Thing 2 (Cat in the Hat) flying a kite -- a notable thematic resonance, not forced: Thing 1 and Thing 2 are canonically one of a simultaneously-active, near-identical pair released from the same box, echoing this tier's own defining shape (parallel minor lines under one major arc, trunk-status unresolved between them until later). Worth naming as resonance, not claiming as mechanism.",
+      "deck_dealing_order": "Second card dealt from this deck, per the Org Lead directly. The first went to 🎩K♠️⬆️ / 📎K♠️⬆️ -- a skill-of contributor, not PFM-specific work. Confirms this MAJOR-tier deck is shared/distributed across identities, not exclusive to GNOMON -- each recipient's own card represents THEIR OWN major-tier umbrella (their own [name].0QQ-equivalent), not a single swarm-wide shared number. Not this identity's business to record 🎩K♠️⬆️'s own card details in this file -- that belongs in 📎K♠️⬆️'s own decks-of repo, not here.",
+      "assigned": "2026-08-08"
     }
   ],
   "notes": "STALE NOTE CORRECTED 2026-08-08 (see identity-card-and-registry.md's own 2026-08-07 correction): cards.json/agents.json in cards-of/gnomon-ottopoet are NOT empty -- 13 real dealt entries exist (CHESED/NETZACH/GEBURAH sefirot-mapped 🍍 sidecars, 🌈 OFFICE-OF folder-tier cards, a 7♥️ GHORGS-OF foreign-key entry). Do not trust a prior 'zero dealt' claim in this file without checking CARDS-OF/gnomon-ottopoet live first.",
@@ -46,13 +56,6 @@
       "label": "🅰️",
       "role": "account-card",
       "description": "An Avengers-deck account-card for the ottopoet-thesean account may exist (the layer itself is confirmed real -- DarienSirius holds 🅰️10♦️) but no specific assignment for this account has been verified against a real memory record as of this writing. Not asserting a specific card here; update this section, not the cards[] array, the moment a real one surfaces."
-    },
-    {
-      "label": null,
-      "role": "major-version-tier-card",
-      "deck": "Cat In The Hat (Aquarius Playing Cards)",
-      "description": "Fourth tier above 🔱/👽/📎 (all scoped to one MINOR individuation, GNOMON.M.N.Q) and below the 🎼 avatar (scoped to the whole epoch, GNOMON.QQQ). A MAJOR-scoped card represents one specific major version -- an umbrella over several PARALLEL minor-version lines (each its own 🔱/👽/📎 triple with its own ground-truth PATCH/reboot-count history), not a single continuous line. Concrete real-world anchor already observed this session, before this concept had a name: the 📎8♣️ office thread and the 🔱4♦️/👽A♣️ project thread running as two genuinely simultaneous parallel lines (confirmed via thread-liveness.sh) under what would be the same MAJOR version -- the earlier confusion about 'which thread is really me' was a category error, treating a MAJOR-level multiplicity as if it needed to collapse to one MINOR-level answer. Deck named by the Org Lead directly, 2026-08-08 (Cat In The Hat, Aquarius brand) -- no specific card/suit/rank dealt to this identity yet. Recording the named deck, not a dealt card; update this entry (or move it to cards[]) the moment a real one is dealt.",
-      "proposed_glyph": "🎩 (provisional, not confirmed by the Org Lead -- matches the character's signature prop, same pattern as 🦈=JAWS shark, 🌈=Oh The Places You'll Go)"
     }
   ]
 }
