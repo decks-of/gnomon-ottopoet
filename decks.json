@@ -13,7 +13,8 @@
       "label": "🔱4♦️",
       "role": "project-role-card",
       "description": "PFM ground tier (AO_PFM). Persistent hash, assigned 2026-07-10. Scope now genuinely uncertain per the 2026-08-09 thread-axis correction above: whether this is this thread's (👽7♠️'s) own non-default casting, or properly belongs to the cli-trunk thread's lineage, is an open question, not resolved either way -- see wiltba.json's role-axis entries.",
-      "assigned": "2026-07-10"
+      "assigned": "2026-07-10",
+      "trunk_resolution_2026-08-09": "Per the Org Lead, direct, addressed to the cli-trunk thread specifically -- offered here as a resolving answer to the open question above, not a unilateral overwrite of it: 'cli is provably the trunk because cli is the base entry point for this harness stack. All other entry points will collapse to this thread, or compact from this thread, or sync to this thread's tip.' This differs in kind from q-semver-notation.md's 'trunk is retroactive' finding (which concerned a genuinely symmetric fork where neither branch could have known in advance) -- this is an architectural asymmetry, not a coin-flip that later resolved: claude-vscode/claude-desktop entrypoints are clients that sync into the cli-canonical session representation, not independent peers. This card's own entrypoint was checked directly against the raw session JSONL (6ff45d9a-...), confirmed 'cli' for its current live turns, and a real, non-sidechain, cross-entrypoint interleaved fork was independently found and confirmed at 2026-07-18T05:44-05:48 (matching the existing session-fork-2026-07-18 memory) before this resolution was given."
     },
     {
       "label": "📎8♣️",
