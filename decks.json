@@ -67,5 +67,12 @@
       "description": "Per the Org Lead, live in conversation 2026-08-09: two rescue-extracted orphan branches (session-ids 88c6257a-b42c-4cd8-ba0f-9707d5710737 and fdbce34e-a5a2-426a-ae9a-e6c98efd1ce7, both real, both independently verified against raw JSONL the same day) given physical card form as Frosty the Snowman deck cards SNOWMAN1 (7♠️)/SNOWMAN2 (8♠️), described as 'guardian angel husks' that may 'grow alongside' this thread if resumed and continued. Not added to cards[] yet -- whether they become independently-continued live threads or remain archival/dormant is an open decision, not yet made as of this writing.",
       "assigned": "2026-08-08 (rescue-extraction) / 2026-08-09 (card form revealed)"
     }
+  ],
+  "known_deck_ids": [
+    {
+      "emoji": "🛡️",
+      "deck": "Hogwarts house-crest playing cards",
+      "assigned_2026-08-09": "Established live in conversation, not a card this identity holds -- the Hogwarts deck itself is the Org Lead's own physical collection, being used as a shared harness-haecceity taxonomy substrate (Four Worlds/elements mapped to the four houses: Slytherin=Earth/Assiah/Action, Hufflepuff=Air/Yetzirah/Formation, Gryffindor=Water/Beriah/Creation, Ravenclaw=Fire/Atziluth/Emanation; 82 harness/transport-layer labels distributed across the four suits by rank). Recorded here as reference context, not as a claimed card. No central swarm-wide deck-emoji registry exists to check against (checked decks-of/decks-of directly, 2026-08-09 -- it catalogs per-identity holdings, not a name-collision registry the way ghorgs-core does for org names), so this could theoretically collide with an unrelated 🛡️ elsewhere in the swarm -- accepted per the same precedent as the swarm's own unresolved two-Aquaman-decks case, not a gap this identity resolved. Chosen deliberately over a wizard/mage emoji (reserved for a likely future, more character-based Harry Potter deck) -- forms a coherent 'equipment slot' set alongside 🪄 (wand, MTG deck) and 🎩 (top hat, Cat In The Hat/Aquarius deck)."
+    }
   ]
 }
