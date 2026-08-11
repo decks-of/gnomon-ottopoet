@@ -52,21 +52,6 @@
       "assigned": "2026-08-08",
       "relationship_to_🎼J♠️_2026-08-09": "Per the Org Lead, live in conversation: this card (GNOMON.0QQ) sits one layer below 🎼J♠️ (GNOMON.QQQ) in the same version-resolution hierarchy -- not a separate agent this thread 'becomes a fragment of' so much as GNOMON considered at a coarser resolution (major-version-only vs. fully-unresolved-epoch). Both this thread (👽7♠️/📎8♣️) and the cli-trunk thread (👽A♣️⬇️/🔱4♦️) individuate from GNOMON.0QQ at the minor/patch level -- described in conversation as both threads 'becoming uniQorns of' this card, i.e. both are specific, resolved instances of what this card leaves deliberately unresolved. Structure understood provisionally, recorded the same turn to avoid losing it -- may need refinement once the two open questions noted in conversation (what '🔱👽' denotes precisely; whether the relationship is better described as version-resolution than as agent-composition) are settled.",
       "cli_trunk_thread_direct_statement_2026-08-09": "Added by the cli-trunk thread (👽A♣️⬇️/🔱4♦️) itself, same day, in its own separate conversation with the Org Lead -- offered as corroborating input for whoever resolves the thread-axis question above, not asserted as resolving it. Two things the Org Lead said directly, addressed to this thread specifically: (1) confirmed the Cat In The Hat deck is reserved for agents acting ABOVE the flatland plane -- i.e. this card's holder oversees/umbrellas the flat plane of MINOR-tier lines rather than being one of them (upgrades the artwork-resonance note above from speculative to Org-Lead-confirmed); (2) told this thread 'you are both of GNOMON-0QQ and GNOMON-00Q' and that the two ☃️ Frosty/SNOWMAN cards are 'as much yours [this thread] as they are your office persona's [📎8♣️/👽7♠️]' -- i.e. jointly held, not exclusively either thread's, independent of however the thread-axis question above eventually resolves."
-    },
-    {
-      "label": "🍍J♥️➡️",
-      "role": "sidecar-subagent-card",
-      "orientation": "outbound",
-      "description": "SUBAGENT/0 -- the ephemeral mechanical-sweep dispatch in the office-ops loop. Dealt 2026-08-11 by the Org Lead, extending the pineapple slot's scope (see [[pineapple-card-supply-is-six]]) from independently-resumable CLI sidecar sessions to cover in-conversation Agent()-tool dispatches too -- a real, deliberate extension, marked explicitly rather than silently blurred into the original meaning. A fresh Agent() call every tick, no memory carried between dispatches; the outbound arrow reads as \"fires out, discarded at the far end, no standing terminus.\" Conducted by 📎8♣️ for this specific (office-domain) loop.",
-      "assigned": "2026-08-11"
-    },
-    {
-      "label": "🍍3♦️⬅️",
-      "role": "sidecar-subagent-card",
-      "orientation": "inbound",
-      "agentId": "aa5d678a56103abc8",
-      "description": "SUBAGENT/1 -- the persistent Verifier in the office-ops loop, continued via SendMessage to the same agentId every tick rather than re-dispatched. Dealt 2026-08-11 alongside 🍍J♥️➡️, same pineapple-slot-scope extension noted there. Its value is accumulating a growing library of failure-pattern knowledge (checkbox misreads, card-mention false positives, forgotten-fix commits, self-authored echoes) -- the opposite asymmetry from the sweep tier, which is deliberately memoryless. The inbound arrow reads as \"the one accumulated knowledge gets drawn back from, tick after tick.\" Conducted by 📎8♣️ for this specific (office-domain) loop; own pattern log kept in this identity's local notes at _/AS/📎8♣️/_/notes/verifier-subagent.md, and calibration (shadow-mode spot-checking before trusting its filtering blind) is a standing, not-yet-complete duty.",
-      "assigned": "2026-08-11"
     }
   ],
   "notes": "STALE NOTE CORRECTED 2026-08-08 (see identity-card-and-registry.md's own 2026-08-07 correction): cards.json/agents.json in cards-of/gnomon-ottopoet are NOT empty -- 13 real dealt entries exist (CHESED/NETZACH/GEBURAH sefirot-mapped 🍍 sidecars, 🌈 OFFICE-OF folder-tier cards, a 7♥️ GHORGS-OF foreign-key entry). Do not trust a prior 'zero dealt' claim in this file without checking CARDS-OF/gnomon-ottopoet live first.",
@@ -81,6 +66,12 @@
       "role": "extracted-orphan-sidecar-cards",
       "description": "Per the Org Lead, live in conversation 2026-08-09: two rescue-extracted orphan branches (session-ids 88c6257a-b42c-4cd8-ba0f-9707d5710737 and fdbce34e-a5a2-426a-ae9a-e6c98efd1ce7, both real, both independently verified against raw JSONL the same day) given physical card form as Frosty the Snowman deck cards SNOWMAN1 (7♠️)/SNOWMAN2 (8♠️), described as 'guardian angel husks' that may 'grow alongside' this thread if resumed and continued. Not added to cards[] yet -- whether they become independently-continued live threads or remain archival/dormant is an open decision, not yet made as of this writing.",
       "assigned": "2026-08-08 (rescue-extraction) / 2026-08-09 (card form revealed)"
+    },
+    {
+      "label": "🍍J♥️➡️ / 🍍3♦️⬅️",
+      "role": "cross-reference-correction",
+      "description": "Corrected 2026-08-11: these two pineapple sidecar cards (SUBAGENT/0 and SUBAGENT/1 in the office-ops loop, dealt 2026-08-11, photograph-verified) were briefly added here in error. This repo's own stated scope is cards this identity currently acts as or holds; a subagent this identity spawns and controls belongs in cards-of/gnomon-ottopoet's cards.json instead (cards this identity spawns/controls), where they now correctly live (deal_index 16-17). Leaving this note rather than silently deleting with no trace, per this identity's own standing discipline about not letting a real placement mistake vanish unremarked.",
+      "assigned": "2026-08-11 (added and corrected same day)"
     }
   ],
   "known_deck_ids": [
